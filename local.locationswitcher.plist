@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>local.locationswitcher</string>
+    <key>OnDemand</key>
+    <true/>
+    <key>Program</key>
+    <string>/PATH/TO/locationswitcher.sh</string>
+    <key>WatchPaths</key>
+    <array>
+        <string>/Library/Preferences/SystemConfiguration/preferences.plist</string>
+    </array>
+</dict>
+</plist>
